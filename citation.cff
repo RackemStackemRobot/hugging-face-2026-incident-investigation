@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use or reference this investigation, please cite it using the information below."
+
+title: "The 2026 Hugging Face Autonomous-Agent Intrusion: Independent Open-Source Cybersecurity Investigation"
+
+authors:
+  - family-names: "Black"
+    given-names: "John R."
+    name-suffix: "III"
+
+version: "Revised Version 9"
+date-released: 2026-09-17
+
+doi: "10.5281/zenodo.22807038"
+
+url: "https://doi.org/10.5281/zenodo.22807038"
+
+license: "CC-BY-NC-ND-4.0"
+
+keywords:
+  - "cybersecurity"
+  - "AI security"
+  - "autonomous agents"
+  - "multi-agent systems"
+  - "zero trust"
+  - "incident response"
+  - "Hugging Face"
+  - "OpenAI"
+  - "Kubernetes"
+  - "cloud security"
+  - "AI governance"
+  - "threat research"
+
+abstract: >-
+  An independent open-source cybersecurity investigation of the 2026
+  Hugging Face autonomous-agent intrusion. The report reconstructs the
+  incident from publicly available technical disclosures, independent
+  research, vendor advisories, and open-source evidence. It examines
+  autonomous-agent containment failure, unintended coordination,
+  credential discovery and reuse, exploitation of Hugging Face
+  dataset-processing infrastructure, Kubernetes privilege escalation,
+  network pivoting, source-control and CI access, and broader implications
+  for AI security, zero-trust architecture, and governance of coordinated
+  autonomous systems.
+
+preferred-citation:
+  type: report
+  title: "The 2026 Hugging Face Autonomous-Agent Intrusion: Independent Open-Source Cybersecurity Investigation"
+  authors:
+    - family-names: "Black"
+      given-names: "John R."
+      name-suffix: "III"
+  year: 2026
+  month: 9
+  version: "Revised Version 9"
+  doi: "10.5281/zenodo.22807038"
+  url: "https://doi.org/10.5281/zenodo.22807038"
+  publisher:
+    name: "Zenodo"
