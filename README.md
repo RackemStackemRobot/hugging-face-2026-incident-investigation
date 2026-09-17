@@ -2,6 +2,8 @@
 
 ## Independent Open-Source Cybersecurity Investigation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22807038.svg)](https://doi.org/10.5281/zenodo.22807038)
+
 **Author:** John Black  
 **Current Report Revision:** Revised Version 9  
 **Evidence Current Through:** September 16, 2026  
@@ -266,11 +268,11 @@ The report's Appendix A contains the complete internal revision history.
 
 ## Citation
 
+**DOI:** [10.5281/zenodo.22807038](https://doi.org/10.5281/zenodo.22807038)
+
 Suggested citation:
 
-> Black, John. *The 2026 Hugging Face Autonomous-Agent Intrusion: Independent Open-Source Cybersecurity Investigation*. Revised Version 9, September 17, 2026.
-
-A DOI citation will be added if the report is archived through a permanent research repository such as Zenodo.
+> Black, John. *The 2026 Hugging Face Autonomous-Agent Intrusion: Independent Open-Source Cybersecurity Investigation*. Revised Version 9, September 17, 2026. https://doi.org/10.5281/zenodo.22807038
 
 ---
 
@@ -356,7 +358,7 @@ The complete report is available here:
 
 ## Status
 
-**Public Release Candidate**
+**Published**
 
 Evidence current through September 16, 2026.  
 Document revision dated September 17, 2026.
